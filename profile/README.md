@@ -27,3 +27,25 @@ npm i && npm start
 ```
 
 ## Back End
+## Prerequisites
+
+- [Go](https://golang.org/dl/)
+- [Docker](https://docs.docker.com/install/)
+- [Docker Compose](https://docs.docker.com/compose/install/)
+
+### Running the application
+
+- Install dependencies
+
+```bash
+$ go mod download
+```
+
+- Run the application
+
+```bash
+$ docker-compose up
+$ go run main.go
+```
+
+Running the application will create a database named `hotelin` in your local PostgreSQL instance.
