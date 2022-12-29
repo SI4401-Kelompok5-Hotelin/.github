@@ -2,6 +2,13 @@
 
 Hotelin is an app for user searching hotel in user area. This project built with javascript framework named [React](https://reactjs.org/docs/getting-started.html) and CSS framework named [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) and [Chakra UI](https://chakra-ui.com). This project is a part of Web Application Development course in [Telkom University](https://telkomuniversity.ac.id).
 
+## Developer behind this project
+- [Abdi Fatih](https://github.com/fatihabdi)
+- [Aulia Ulfa Cheni](https://github.com/auliaucheni)
+- [Fauzan Nur Fachri Afiansyah](https://github.com/fauzanafiansyah)
+- [Muhammad Kautsar Firdaus](https://github.com/kautsarfrds)
+- [Sabrina Hidayah](https://github.com/sabrinah11)
+
 ## Repository Structure
 
 The repository is structured as follows:
